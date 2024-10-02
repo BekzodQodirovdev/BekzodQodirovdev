@@ -12,9 +12,9 @@
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-BekzodQodirov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zufar-bobojonov-6544a6251/)](https://www.linkedin.com/in/zufar-bobojonov-6544a6251/) 
-[![Telegram Badge](https://img.shields.io/badge/@bekzod-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Zufar_Xorazmiy)](https://t.me/Zufar_Xorazmiy) 
-[![Youtube Badge](https://img.shields.io/badge/@bekzod-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@MrZufarbek)](https://www.youtube.com/@MrZufarbek)
+[![Linkedin Badge](https://img.shields.io/badge/-BekzodQodirov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zufar-bobojonov-6544a6251/)](https://www.linkedin.com/in/bekzodQodirov-6544a6251/) 
+[![Telegram Badge](https://img.shields.io/badge/@bekzod_22449-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/bekzod_22449)](https://t.me/bekzod_22445) 
+<!--[![Youtube Badge](https://img.shields.io/badge/@bekzoddev-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@MrZufarbek)](https://www.youtube.com/@bekzoddev)-->
 
 <div align="center">
   <h2>🚀 Github Commits</h2>
@@ -59,17 +59,17 @@
   <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
   <table align="center" width="100%" height="100%">
     <tr>
-      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xorazm92&theme=github_dark" alt="Xorazm92's GitHub Stats"/></td>
-      <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Xorazm92&theme=merko" alt="Xorazm92's Contribution Streak"/></td>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BekzodQodirovdev&theme=github_dark" alt="BekzodQodirovdev's GitHub Stats"/></td>
+      <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=BekzodQodrovdev&theme=merko" alt="BekzodQodirovdev's Contribution Streak"/></td>
     </tr>
   </table>
 
   <table align="center" width="100%" height="100%">
     <tr>
-      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xorazm92&theme=github_dark" alt="Xorazm92's GitHub Stats"/></td>
-      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xorazm92&theme=github_dark&utcOffset=10" alt="Xorazm92's GitHub Stats"/></td>
-      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xorazm92&theme=github_dark" alt="Xorazm92's GitHub Stats"/></td>
-      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xorazm92&theme=github_dark" alt="Xorazm92's GitHub Stats"/></td>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BekzodQodirovdev&theme=github_dark" alt="BekzodQodrovdev's GitHub Stats"/></td>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BekzodQodirovdev&theme=github_dark&utcOffset=10" alt="BekzodQodirovdev's GitHub Stats"/></td>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BekzodQodirovdev&theme=github_dark" alt="BekzodQodrovdev's GitHub Stats"/></td>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BekzodQodirovdev&theme=github_dark" alt="BekzodQodirovdev's GitHub Stats"/></td>
     </tr>
   </table>
 </div>
