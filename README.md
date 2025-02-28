@@ -3,7 +3,7 @@
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
-<div align="center">
+<div align="center"></div>
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-BekzodQodirov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekzod-qodirov-7270a630a/)](https://www.linkedin.com/in/bekzod-qodirov-7270a630a/) 
