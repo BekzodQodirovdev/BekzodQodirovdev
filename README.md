@@ -4,12 +4,6 @@
 </div>
 
 <div align="center">
-    <h2>🚀 About Me</h2>
-<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-        <p>I'm an emerging developer from Uzbekistan. My technical skills primarily encompass Python and C programming languages, MySQL database, and AppSheet, a NoCode solution. I'm passionate about deepening my knowledge in programming and expanding my practical experience in the field of software development.</p>
-</div>
-
-<div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-BekzodQodirov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekzod-qodirov-7270a630a/)](https://www.linkedin.com/in/bekzod-qodirov-7270a630a/) 
