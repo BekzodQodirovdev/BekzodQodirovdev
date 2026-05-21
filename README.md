@@ -4,6 +4,7 @@
 </div>
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+    
 [![Linkedin Badge](https://img.shields.io/badge/-BekzodQodirov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekzod-qodirov-7270a630a/)](https://www.linkedin.com/in/bekzod-qodirov-7270a630a/) 
 [![Telegram Badge](https://img.shields.io/badge/@bekzod_dev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/bekzod_dev)](https://t.me/bekzod_dev) 
 </div>    
@@ -12,5 +13,3 @@
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
-</body>
-</html>
