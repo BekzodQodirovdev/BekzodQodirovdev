@@ -6,7 +6,7 @@
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-BekzodQodirov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekzod-qodirov-7270a630a/)](https://www.linkedin.com/in/bekzod-qodirov-7270a630a/) 
-[![Telegram Badge](https://img.shields.io/badge/@bekzod_22449-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/bekzod_22449)](https://t.me/bekzod_22449) 
+[![Telegram Badge](https://img.shields.io/badge/@bekzod_dev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/bekzod_dev)](https://t.me/bekzod_dev) 
 </div>    
 <div align="center">
   <h2>🚀 Github Commits</h2>
